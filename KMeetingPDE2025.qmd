@@ -6,17 +6,20 @@ title: "K-Meeting on PDE: Analysis, Numerical Methods and Applications"
 
 - Date: **September 11th to 12th, 2025** 
 - Place: Aulario "La Bomba", **Universidad de Cádiz**, Cádiz, Spain
-- Organizers: M. Victoria Redondo Neble, Daniel Acosta Soba, J. Rafael Rodríguez Galván. 
+- Organizers: M. Victoria Redondo Neble, Daniel Acosta Soba, J. Rafael Rodríguez Galván (Dpto. de Matemáticas, Universidad de Cádiz).
 
 ### Scientific report on the acitivity
 
-This event brings together the closest collaborators of Professor Francisco (Kisko) Guillén González on the occasion of his 60th birthday. It aims to celebrate his relevant scientific contributions, many of them closely linked to the University of Cádiz, and foster the exchange of ideas among colleagues who have shared his research journey. The meeting will provide an opportunity to reflect on the research lines that have guided his distinguished career, particularly in the fields of theoretical and numerical analysis of partial differential euqations. 
+This event brings together the closest collaborators of Professor Francisco (Kisko) Guillén González on the occasion of his 60th birthday. It aims to celebrate his relevant scientific contributions, many of them closely linked to the University of Cádiz, and foster the exchange of ideas among colleagues who have shared his research journey. The meeting will provide an opportunity to reflect on the research lines that have guided his distinguished career, particularly in the fields of theoretical and numerical analysis of Partial Differential Euqations (PDEs). 
 
 Leading international mathematicians will participate in the event. Most of them have collaborated with Professor Guillén González over the years, forgi:ng strong academic and personal relationships that continue to deepen with time. This gathering will not only honor his achievements but also reinforce existing collaborations and inspire future research directions.
 
-This meeting is open to the scientific community and any researcher can register through the website [http://falta-hacer-la-web.es](http://falta-hacer-la-web.es) (until full capacity is reached).
+Specifically, the first part of the meeting will focus on chemotaxis-type PDE models, with particular emphasis on the mathematical modelling of neuroblasts (immature neuronal cells) in the brains of adult mammals. The second part will be dedicated to the theoretical and numerical analysis of other types of PDEs, such as phase-field models and fluid dynamics in oceanic flows.
 
-### Schedule, 1-st and 2-nd September 2025 {#sec-schedule}
+
+This meeting is open to the scientific community and any researcher can register through the website [https://compmaths.github.io/k-workshop-2025](https://compmaths.github.io/k-workshop-2025) (until full capacity is reached).
+
+### Schedule, 11th and 12th September 2025 {#sec-schedule}
 
 <style>
     .heatMap {
@@ -28,43 +31,45 @@ This meeting is open to the scientific community and any researcher can register
         word-wrap: break-word;
         text-align: center;
     }
-    .heatMap tr:nth-child(9) { td:nth-child(2) { background: lightgray; } }
-    .heatMap tr:nth-child(10) { td:nth-child(2) { background: lightblue; } }
+    .heatMap tr:nth-child(10) { td:nth-child(2) { background: lightgray; } }
     .heatMap tr:nth-child(11) { td:nth-child(2) { background: lightblue; } }
-    .heatMap tr:nth-child(13) { td:nth-child(2) { background: orange; } }
-    .heatMap tr:nth-child(14) { td:nth-child(2) { background: orange; } }
+    .heatMap tr:nth-child(12) { td:nth-child(2) { background: lightblue; } }
+    .heatMap tr:nth-child(13) { td:nth-child(2) { background: lightblue; } }
     .heatMap tr:nth-child(15) { td:nth-child(2) { background: orange; } }
     .heatMap tr:nth-child(16) { td:nth-child(2) { background: orange; } }
+    .heatMap tr:nth-child(17) { td:nth-child(2) { background: orange; } }
 
     .heatMap tr:nth-child(1) { td:nth-child(3) { background: pink; } }
     .heatMap tr:nth-child(2) { td:nth-child(3) { background: pink; } }
-    .heatMap tr:nth-child(4) { td:nth-child(3) { background: lightgreen; } }
+    .heatMap tr:nth-child(3) { td:nth-child(3) { background: pink; } }
     .heatMap tr:nth-child(5) { td:nth-child(3) { background: lightgreen; } }
     .heatMap tr:nth-child(6) { td:nth-child(3) { background: lightgreen; } }
     .heatMap tr:nth-child(7) { td:nth-child(3) { background: lightgreen; } }
-    .heatMap tr:nth-child(8) { td:nth-child(3) { background: lightgray; } }
+    .heatMap tr:nth-child(8) { td:nth-child(3) { background: lightgreen; } }
+    .heatMap tr:nth-child(9) { td:nth-child(3) { background: lightgray; } }
 </style>
 
 <div class="heatMap">
 
 |  | Monday 1st | Tuesday 2nd | 
 | --- | --- | --- |
-| 09:00 - 10:00  | - | Plennary: Malte Braack ??? |
+| 09:00 - 9:30  | - | **Malte Braack** (Kiel Univ.) |
+| 9:30 - 10:30  | - |  **M. Victora Redondo Neble** (Univ. Cádiz) | - |
 | 10:00 - 10:30  | - |  Panel discussion | 
 | 10:30 - 11:00 | - | Coffee break  | 
-| 11:00 - 11:30 | - | Communication: Mª Ángeles Rodríguez Bellido  |
-| 11:30 - 12:00 | - | Communication: Giordano Tierra Chica  |
-| 12:00 - 12:30 | - | Communication: Daniel Acosta Soba |
-| 12:30 - 13:00 | - | Pannel discussion |
-| 13:00 - 13:30 | - | **Closing** |
+| 11:00 - 11:30 | - | **Mª Ángeles Rodríguez Bellido** (Univ. Sevilla)  |
+| 11:30 - 12:00 | - | **Giordano Tierra Chica** (Norh Texas Univ.) |
+| 12:00 - 12:30 | - | **Daniel Acosta Soba** (Univ. Cádiz)|
+| 12:30 - 13:30 | - | Pannel discussion (with ***Francisco Guillén***)|
+| 13:30 - 14:00 | - | **Closing** |
 | 15:00 - 15:30 |  **Welcome** | - |
-| 15:30 - 16:30 | Plennary: Carmen Castro | - |
-| 16:30 - 17:00 | Panel discussion | - | 
-| 17:00 - 17:30 | Coffee break | - |
-| 17:30 - 18:00 | Communication: J. Rafael Rodríguez Galván | - |
-| 18:00 - 18:30 | Communication: Noelia Ortega Román | - |
-| 18:30 - 19:00 | Communication: Juan Vicente Gutiérrez Santacréu | - |
-| 19:00 - 19:30 | Communication: M. Victora Redondo Neble | - |
+| 15:30 - 16:30 | Plennary: **Carmen Castro González** (Univ. Cádiz)| - |
+| 16:30 - 17:00 | **Noelia Ortega Román** (Univ. Cádiz)| - |
+| 17:00 - 17:30 | **J. Rafael Rodríguez Galván** (Univ. Cádiz)| - |
+| 17:30 - 18:00 | Coffee break | - |
+| 18:00 - 18:30 | **Giuseppe Viglialoro** (Univ. Cagliari)| - |
+| 18:30 - 19:00 | **Juan Vicente Gutiérrez Santacréu** (Univ. Sevilla)| - |
+| 19:00 - 20:00 | Panel discussion (with ***Francisco Guillén***)| - | 
 
 </div>
 
@@ -76,8 +81,8 @@ This meeting is open to the scientific community and any researcher can register
   | Daniel Acosta Soba | Universidad de Cádiz | daniel.acosta@uca.es | ✅ |
   | J. Rafael Rodríguez Galván | Universidad de Cádiz | rafael.rodriguez@uca.es | ✅ |
   | Noelia Ortega Román | Universidad de Cádiz | noelia.ortega@uca.es | ✅ (día 1 al menos) |
-  | Mª Ángeles Rodríguez Bellido | Universidad de Sevilla | angeles@us.es | ❌ | 
-  | Juan Vicente Gutiérrez Santacréu | Universidad de Sevilla | juanvi@us.es | ❌ | 
+  | Mª Ángeles Rodríguez Bellido | Universidad de Sevilla | angeles@us.es | ✅ | 
+  | Juan Vicente Gutiérrez Santacréu | Universidad de Sevilla | juanvi@us.es | ✅ | 
   | Giordano |  |  | ❌ | 
   | Francisco Ortegón Gallego | Universidad de Cádiz |  | ❌ | 
   | Concepción García Vázquez | Universidad de Cádiz | concepcion.garcia@uca.es | ❌ | 
@@ -88,7 +93,7 @@ This meeting is open to the scientific community and any researcher can register
   | Rafael | Università degli Studi di Cagliari | | ❌ |
   | Malte Braak | | | ❌ |
   | Winkler | | | ❌ |
-  | Carmen Castro | Universidad de Cádiz | | ❌ |
+  | Carmen Castro González | Universidad de Cádiz | | ✅ |
 
 ## Memoria económica
 "Memoria económica en la que se detalle el presupuesto global destinado a la realización del congreso, reunión científica o evento de transferencia y donde se identifique la parte de ese presupuesto que se pretende financiar con esta ayuda solicitada.
