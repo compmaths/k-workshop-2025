@@ -2,18 +2,33 @@
 title: "K-Meeting on PDE: Analysis, Numerical Methods and Applications"
 ---
 
-- **September 11th to 12th, 2025** 
+**September 11th to 12th, 2025** 
 - Place: Aulario "La Bomba", **Universidad de Cádiz**, Cádiz, Spain
 - Organizers: M. Victoria Redondo Neble, Daniel Acosta Soba, J. Rafael Rodríguez Galván (Dpto. de Matemáticas, Universidad de Cádiz)
 
 ### Scientific report on the acitivity
 
-This event brings together the closest collaborators of Professor Francisco (Kisko) Guillén González on the occasion of his 60th birthday. It aims to celebrate his relevant scientific contributions, many of them closely linked to the University of Cádiz, and foster the exchange of ideas among colleagues who have shared his research journey. The meeting will provide an opportunity to reflect on the research lines that have guided his distinguished career, particularly in the fields of theoretical and numerical analysis of Partial Differential Euqations (PDEs). 
+This event brings together the closest collaborators of Professor
+Francisco (Kisko) Guillén González on the occasion of his 60th birthday.
+It seeks to honor his significant scientific contributions —many of which are closely connected to the University of Cádiz— and to promote the exchange of ideas among colleagues who have accompanied him throughout his research journey. The meeting
+will provide an opportunity to reflect on the research lines that have
+guided his distinguished career, particularly in the fields of
+theoretical and numerical analysis of Partial Differential Equations
+(PDEs).
 
-Leading international mathematicians will participate in the event. Most of them have collaborated with Professor Guillén González over the years, forgi:ng strong academic and personal relationships that continue to deepen with time. This gathering will not only honor his achievements but also reinforce existing collaborations and inspire future research directions.
+Leading international mathematicians will participate in the event. Most
+of them have collaborated with Professor Guillén González over the
+years, forgi:ng strong academic and personal relationships that continue
+to deepen with time. This gathering will not only review their achievements
+but also reinforce existing collaborations and inspire future research
+directions.
 
-Specifically, the first part of the meeting will focus on chemotaxis-type PDE models, with particular emphasis on the mathematical modelling of neuroblasts (immature neuronal cells) in the brains of adult mammals. The second part will be dedicated to the theoretical and numerical analysis of other types of PDEs, such as phase-field models and fluid dynamics in oceanic flows.
-
+Specifically, the first part of the meeting will focus on
+chemotaxis-type PDE models, with particular emphasis on the mathematical
+modelling of neuroblasts (immature neuronal cells) in the brains of
+adult mammals. The second part will be dedicated to the theoretical and
+numerical analysis of other types of PDEs, such as phase-field models
+and fluid dynamics in oceanic flows.
 
 This meeting is open to the scientific community and any researcher can register through the website [https://compmaths.github.io/k-workshop-2025](https://compmaths.github.io/k-workshop-2025) (until full capacity is reached).
 
@@ -69,114 +84,11 @@ This meeting is open to the scientific community and any researcher can register
 
 </div>
 
-## Asistants: {#sec-asistants}
+## Contact
 
-  | Name | Affiliation | Email | Confirmation |
-  | --- | --- | --- | --- |
-  | Mª Victoria Redondo Neble | Universidad de Cádiz | victoria.redondo@uca.es | ✅ |
-  | Daniel Acosta Soba | Universidad de Cádiz | daniel.acosta@uca.es | ✅ |
-  | J. Rafael Rodríguez Galván | Universidad de Cádiz | rafael.rodriguez@uca.es | ✅ |
-  | Noelia Ortega Román | Universidad de Cádiz | noelia.ortega@uca.es | ✅ (día 1 al menos) |
-  | Mª Ángeles Rodríguez Bellido | Universidad de Sevilla | angeles@us.es | ✅ | 
-  | Juan Vicente Gutiérrez Santacréu | Universidad de Sevilla | juanvi@us.es | ✅ | 
-  | Giordano |  |  | ❌ | 
-  | Francisco Ortegón Gallego | Universidad de Cádiz |  | ❌ | 
-  | Concepción García Vázquez | Universidad de Cádiz | concepcion.garcia@uca.es | ❌ | 
-  | Aurora | Universidad de Cádiz | | ❌ | 
-  | Giuseppe Viglialoro | Università degli Studi di Cagliari | | ❌ |
-  | Solvia Frassu | Università degli Studi di Cagliari | | ❌ |
-  | Alessandro | Università degli Studi di Cagliari | | ❌ |
-  | Rafael | Università degli Studi di Cagliari | | ❌ |
-  | Malte Braak | | | ❌ |
-  | Winkler | | | ❌ |
-  | Carmen Castro González | Universidad de Cádiz | | ✅ |
+J. Rafael Rodríguez Galván <rafael.rodriguez@uca.es> (Dpto. de Matemáticas, Universidad de Cádiz). Tlf: 956 012761
 
-## Memoria económica
-"Memoria económica en la que se detalle el presupuesto global destinado a la realización del congreso, reunión científica o evento de transferencia y donde se identifique la parte de ese presupuesto que se pretende financiar con esta ayuda solicitada.
+## Acknowledgements
 
-Se especificarán otras ayudas concedidas o solicitadas a la propia Universidad y/o a otras entidades públicas y privadas para la misma actividad."
-
-### Gastos: 
-- Alojamiento de F. Guillén Gonzalez (1 noche):  ???€
-- Desplazamiento de F. Guillén (Cadiz -> Sevilla, autopista): ???€
-- Cafés:  ??? (preguntar al vicerrectorado)
-- Total: ???€
-
-Parte del presupuesto que se pretende financiar con esta ayuda solicitada: **100%** de los gastos.
-
-No contamos con otras ayudas para la financiación de esta actividad.
-
-
-## Anexo 0: Estimación de financiación
-
-Idea: 8 horas, 4 horas lunes (tarde) + 4 horas martes (mañana)
-
-```{python}
-S_8 = 1 + 1  # 4 horas lunes tarde + 4 horas martes mañana
-A = 0.4  # Menos de 50 asistentes
-```
-
-### Reunión 
-
-```{python}
-def Fórmula_Reunión(horas, asistencia, carácter):
-  F = 500 * horas * asistencia * carácter 
-  F = min(700, F)
-  print(f"Financiación: F = {F}€ (horas = {horas}, asistencia = {asistencia}, carácter = {C})")
-```
-
-#### Reunión internacional
-```{python}
-C = 0.8  # Reunión internacional (on line)
-
-print("Reunión internacional de 8 horas:", end='\n')
-Fórmula_Reunión(horas=S_8, asistencia=A, carácter=C)
-```
-## Anexo 1: Normativa y para vicerrectorado de investigación
-- Información de la convocatoria (plan propio UCA): https://planpropioinvestigacion.uca.es/organizacion/, Modalidad B (ORG-REUNIONES): organización de reuniones internacionales de intercambio científico.
-Este tipo de actividad deberá cumplir al menos:
-- Participación de un mínimo de 10 investigadores.
-- El 30% de los participantes deben ser extranjeros o estar adscritos a universidades o instituciones situados fuera de España.
-- Estar abiertas al resto de la comunidad científica.
-
-"La información referente al proceso se podrá consultar en la web del PLAN PROPIO DE INVESTIGACIÓN Y TRANSFERENCIA. Las solicitudes y documentación correspondiente se presentarán exclusivamente por la plataforma WIDI. La solicitud deberá realizarse al menos 2 meses antes de la realización del evento, excepto los que se programen para los dos primeros meses del año que deberán presentar la solicitud antes del 31 de octubre del año anterior.
-
-Los solicitantes deberán aportar la siguiente documentación:
-
-- Memoria científica de la actividad, que debe incluir el objeto científico y el programa del evento.
-- Memoria económica en la que se detalle el presupuesto global destinado a la realización del congreso, reunión científica o evento de transferencia y donde se identifique la parte de ese presupuesto que se pretende financiar con esta ayuda solicitada.
-- Se especificarán otras ayudas concedidas o solicitadas a la propia Universidad y/o a otras entidades públicas y privadas para la misma actividad."
-
-
-- ¿Pueden participar online los invesigadores extranjeros? (si)
-- ¿Se pueden pagar los cafés en las pausas? (????)
-
-## Anexo 2: Ayudas Plan Propio UCA (Congresos/Reuniones/Transferencia) {#sec-ayudas}
-
-[Web del Plan Propio UCA: Ayudas Congresos/Reuniones/Transferencia](https://planpropioinvestigacion.uca.es/organizacion/)
-
-- Congresos científicos Internacionales: Hasta 3.000 €.
-- Congresos científicos nacionales: Hasta 1.500 €.
-- Reuniones científicas y de transferencia: Hasta 700 €.
-
-La cuantía de la ayuda económica, caso de que sea asignada, vendrá determinado por la siguiente fórmula 
-(F = Financiación asignada, en euros):
-
-$$
-F = 500 · S · A · C.
-$$
-
-- S = Duración del evento, asignando un valor de 1 a sesiones de 4 horas. 
-- A = Factor de asistencia:
-    - Hasta 50 asistentes: A = 0,4
-    - Entre 51 y 100 asistentes: A = 0,6
-    - Entre 101 y 200 asistentes: A = 0,8 Más de 200 asistentes: A = 1
-- C = Carácter del evento
-    - Congreso internacional de varios días de duración: C = 1 
-    - Congreso nacional de varios días de duración: C = 0,8
-    - Otro tipo de eventos (workshops, reuniones, mesas redondas, …) Internacional: C = 0,8 
-    - Otro tipo de eventos (workshops, reuniones, mesas redondas, …) nacional: C = 0,5
-
-Se considerarán costes financiables los gastos asociados a la actividad que los organizadores estimen oportunos, quedando exceptuados los gastos relacionados con actividades de carácter protocolario y de representación y los destinados a la adquisición de bienes inventariables.
-
+Funded by "Plan Propio de Investigación UCA 2025-2027", Universidad de Cádiz.
 
