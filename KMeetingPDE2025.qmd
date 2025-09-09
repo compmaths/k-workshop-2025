@@ -44,43 +44,41 @@ This meeting is open to the scientific community and any researcher can register
         word-wrap: break-word;
         text-align: center;
     }
-    .heatMap tr:nth-child(9) { td:nth-child(2) { background: lightgray; } }
-    .heatMap tr:nth-child(10) { td:nth-child(2) { background: lightblue; } }
-    .heatMap tr:nth-child(11) { td:nth-child(2) { background: lightblue; } }
+    .heatMap tr:nth-child(8) { td:nth-child(2) { background: lightgray; } }
+    .heatMap tr:nth-child(9) { td:nth-child(2) { background: orange; } }
+    .heatMap tr:nth-child(10) { td:nth-child(2) { background: orange; } }
     .heatMap tr:nth-child(12) { td:nth-child(2) { background: lightblue; } }
-    .heatMap tr:nth-child(14) { td:nth-child(2) { background: orange; } }
-    .heatMap tr:nth-child(15) { td:nth-child(2) { background: orange; } }
-    .heatMap tr:nth-child(16) { td:nth-child(2) { background: orange; } }
+    .heatMap tr:nth-child(13) { td:nth-child(2) { background: lightblue; } }
+    .heatMap tr:nth-child(14) { td:nth-child(2) { background: lightblue; } }
+    .heatMap tr:nth-child(15) { td:nth-child(2) { background: gold; } }
 
     .heatMap tr:nth-child(1) { td:nth-child(3) { background: pink; } }
     .heatMap tr:nth-child(2) { td:nth-child(3) { background: pink; } }
-    .heatMap tr:nth-child(3) { td:nth-child(3) { background: pink; } }
+    .heatMap tr:nth-child(4) { td:nth-child(3) { background: lightgreen; } }
     .heatMap tr:nth-child(5) { td:nth-child(3) { background: lightgreen; } }
-    .heatMap tr:nth-child(6) { td:nth-child(3) { background: lightgreen; } }
-    .heatMap tr:nth-child(7) { td:nth-child(3) { background: lightgreen; } }
-    .heatMap tr:nth-child(8) { td:nth-child(3) { background: lightgray; } }
+    .heatMap tr:nth-child(6) { td:nth-child(3) { background: gold; } }
+    .heatMap tr:nth-child(7) { td:nth-child(3) { background: lightgray; } }
 </style>
 
 <div class="heatMap">
 
 |  | Thursday 11th | Friday 12th | 
 | --- | --- | --- |
-| 09:00 - 9:30  | - | **Malte Braack** (Kiel Univ.) |
-| 9:30 - 10:00  | - |  **M. Victora Redondo Neble** (Univ. Cádiz) | - |
-| 10:00 - 10:30 | - | **Mª Ángeles Rodríguez Bellido** (Univ. Sevilla)  |
-| 10:30 - 11:00 | - | Coffee break  | 
-| 11:00 - 11:30 | - | **Giordano Tierra Chica** (Norh Texas Univ.) |
-| 12:30 - 12:00 | - | **Daniel Acosta Soba** (Univ. Cádiz)|
-| 12:00 - 13:00 | - | Pannel discussion (with ***Francisco Guillén***)|
+| 10:00 - 10:30  | - | **Marko A.  Rojas Medar** (Univ. Tarapacá) |
+| 10:30 - 11:00 | - | **Mª Ángeles Rodríguez Bellido** (Univ. Sevilla)  |
+| 11:00 - 11:30 | - | Coffee break  | 
+| 11:30 - 12:00 | - | **Juan Vicente Gutiérrez Santacreu** (Univ. Sevilla) |
+| 12:00 - 12:30 | - | **Daniel Acosta Soba** (Univ. Cádiz)|
+| 12:30 - 13:00 | - | Pannel discussion (with ***Francisco Guillén***)|
 | 13:00 - 13:30 | - | **Closing** |
-| 15:00 - 15:30 |  **Welcome** | - |
-| 15:30 - 16:30 | Plennary: **Carmen Castro González** (Univ. Cádiz)| - |
-| 16:30 - 17:00 | **Noelia Ortega Román** (Univ. Cádiz)| - |
-| 17:00 - 17:30 | **J. Rafael Rodríguez Galván** (Univ. Cádiz)| - |
+| 16:15 - 16:30 | **Welcome** | - |
+| 16:30 - 17:00 | *K-workshop, K-diz and other K's*. **Victoria Redondo Neble** (Univ. Cádiz) | - |
+| 17:00 - 17:30 | **Giordano Tierra Chica** (Norh Texas Univ.) | - |
 | 17:30 - 18:00 | Coffee break | - |
-| 18:00 - 18:30 | **Giuseppe Viglialoro** (Univ. Cagliari)| - |
-| 18:30 - 19:00 | **Juan Vicente Gutiérrez Santacréu** (Univ. Sevilla)| - |
-| 19:00 - 20:00 | Panel discussion (with ***Francisco Guillén***)| - | 
+| 18:00 - 19:00 | Plennary: **Carmen Castro González** (Univ. Cádiz)| - |
+| 19:00 - 19:30 | **Noelia Ortega Román** (Univ. Cádiz)| - |
+| 19:30 - 20:00 | **J. Rafael Rodríguez Galván** (Univ. Cádiz)| - |
+| 20:00 - 20:30 | Panel discussion (with ***Francisco Guillén***)| - | 
 
 </div>
 
