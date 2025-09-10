@@ -65,17 +65,17 @@ This meeting is open to the scientific community and any researcher can register
 |  | Thursday 11th | Friday 12th | 
 | --- | --- | --- |
 | 10:00 - 10:30  | - | **Marko A.  Rojas Medar** (Univ. Tarapacá) |
-| 10:30 - 11:00 | - | **Mª Ángeles Rodríguez Bellido** (Univ. Sevilla)  |
+| 10:30 - 11:00 | - | **Mª Ángeles Rodríguez Bellido** (Univ. Sevilla). *"Tesoros encontrados y mapas incompletos en el camino hacia la quimiotaxis"* |
 | 11:00 - 11:30 | - | Coffee break  | 
-| 11:30 - 12:00 | - | **Juan Vicente Gutiérrez Santacreu** (Univ. Sevilla) |
+| 11:30 - 12:00 | - | **Juan Vicente Gutiérrez Santacreu** (Univ. Sevilla). *"Some ideas on approximating taxis-driven phenomena with degenerate motility"* |
 | 12:00 - 12:30 | - | **Daniel Acosta Soba** (Univ. Cádiz)|
 | 12:30 - 13:00 | - | Pannel discussion (with ***Francisco Guillén***)|
 | 13:00 - 13:30 | - | **Closing** |
 | 16:15 - 16:30 | **Welcome** | - |
-| 16:30 - 17:00 | *K-workshop, K-diz and other K's*. **Victoria Redondo Neble** (Univ. Cádiz) | - |
-| 17:00 - 17:30 | **Giordano Tierra Chica** (Norh Texas Univ.) | - |
+| 16:30 - 17:00 | **Victoria Redondo Neble** (Univ. Cádiz). *"K-workshop, K-diz and other K's"* | - |
+| 17:00 - 17:30 | **Giordano Tierra Chica** (Norh Texas Univ.). *"Numerical schemes for a penalized ternary Cahn-Hilliard system"* | - |
 | 17:30 - 18:00 | Coffee break | - |
-| 18:00 - 19:00 | Plennary: **Carmen Castro González** (Univ. Cádiz)| - |
+| 18:00 - 19:00 | Plennary: **Carmen Castro González** (Univ. Cádiz). *"Neurogénesis a partir de los 60"* | - |
 | 19:00 - 19:30 | **Noelia Ortega Román** (Univ. Cádiz)| - |
 | 19:30 - 20:00 | **J. Rafael Rodríguez Galván** (Univ. Cádiz)| - |
 | 20:00 - 20:30 | Panel discussion (with ***Francisco Guillén***)| - | 
