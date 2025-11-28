@@ -76,8 +76,8 @@ This meeting is open to the scientific community and any researcher can register
 | 17:00 - 17:30 | **Giordano Tierra Chica** (Norh Texas Univ.). *"Numerical schemes for a penalized ternary Cahn-Hilliard system"* | - |
 | 17:30 - 18:00 | Coffee break | - |
 | 18:00 - 19:00 | Plennary: **Carmen Castro González** (Univ. Cádiz). *"Neurogénesis a partir de los 60"* | - |
-| 19:00 - 19:30 | **Noelia Ortega Román** (Univ. Cádiz)| - |
-| 19:30 - 20:00 | **J. Rafael Rodríguez Galván** (Univ. Cádiz)| - |
+| 19:00 - 19:30 | **Noelia Ortega Román**. *"Mathematical modelling of neuroblast migration toward the olfactory bulb"* (Univ. Cádiz)| - |
+| 19:30 - 20:00 | **J. Rafael Rodríguez Galván**. *"Neuroblasts modelling: past and future perspectives"* (Univ. Cádiz)| - |
 | 20:00 - 20:30 | Panel discussion (with ***Francisco Guillén***)| - | 
 
 </div>
